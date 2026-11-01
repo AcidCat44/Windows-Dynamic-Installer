@@ -9,6 +9,7 @@ This is not an official Microsoft Installer! made in Visual Studio 2012!
 * An .ISO with Windows XP setup files or later
 * A Windows Operating System or Wine
 * A USB Drive (formatted to ntfs)
+* I think Visual Studio 2012 or something like that
 
 ## Tested Operating Systems
 
